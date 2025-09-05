@@ -67,5 +67,3 @@ To get started with the NotesApp locally, follow these steps:
 ## Deployment
 
 The app is deployed on Render. You can access the live version [here](https://notesapp-d8lp.onrender.com/).
-
-The app is deployed on Vercel. You can access the live version [here](https://notes-app-dusky-theta.vercel.app).
