@@ -1,6 +1,6 @@
 # NotesApp
 
-**NotesApp** is a responsive, mobile-friendly note-taking application designed for users to create, update, and delete notes effortlessly. It provides a clean, intuitive interface for managing notes on the go, with support for various devices and optimized loading speeds.
+**NotesApp** is a lightweight, mobile-friendly application that allows users to efficiently manage their notes. It offers a clean interface for creating, viewing, updating, and deleting notes, accessible across desktops, tablets, and smartphones.
 
 ## Features
 
