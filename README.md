@@ -29,7 +29,7 @@ To get started with the NotesApp locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/HarshDev1809/NotesApp.git
+   git clone https://github.com/BimbaSiri/NotesApp.git
    ```
 
 2. **Install Dependencies**:
@@ -68,13 +68,4 @@ To get started with the NotesApp locally, follow these steps:
 
 The app is deployed on Render. You can access the live version [here](https://notesapp-d8lp.onrender.com/).
 
-## Future Improvements
-
-- **Authentication**: Add user authentication for private notes.
-- **Search Functionality**: Enable searching through notes by keywords or tags.
-- **Rich Text Editor**: Implement a rich text editor for formatting notes.
-- **Dark Mode**: Provide a dark mode option for better user experience.
-
-## Contributing
-
-Feel free to contribute by opening an issue or submitting a pull request.
+The app is deployed on Vercel. You can access the live version [here](https://notes-app-dusky-theta.vercel.app).
